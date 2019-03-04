@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DecodAlamofirable_Tests' do
+  pod 'DecodAlamofirable', :path => '../'
+  
+  
+end
