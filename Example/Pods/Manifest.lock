@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.8.1)
+  - DecodAlamofirable (1.0.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - DecodAlamofirable (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  DecodAlamofirable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  DecodAlamofirable: 3aa22455ca35867fe05e1b6f69c016b073ff1f02
+
+PODFILE CHECKSUM: 91eaf8fb76935ee312be663a8d9850e2454786ff
+
+COCOAPODS: 1.6.0.beta.2

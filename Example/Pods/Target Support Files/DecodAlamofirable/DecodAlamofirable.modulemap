@@ -1,0 +1,6 @@
+framework module DecodAlamofirable {
+  umbrella header "DecodAlamofirable-umbrella.h"
+
+  export *
+  module * { export * }
+}
